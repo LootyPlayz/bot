@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AtomSMPC.aternos.me
-",
+    "ip": "AtomSMPC.aternos.me",
     "port": 59054,
     "version": "1.20.1",
     "try-creative": false
